@@ -1,0 +1,121 @@
+,City,Area,Owner,BHK,Floor,price,Carpet_Area,per_sqt
+0,bangalore, Kattigenahalli, Omkar Pandey,3,FloorGround out of 4,₹60 Lac ,1000,₹4950
+1,bangalore, Ayodaya Nagar, gokul,2,FloorGround out of 4,₹80 Lac ,1150,₹6957
+2,bangalore, Electronic City , Thayumanavan,2,Floor4 out of 4,₹48 Lac ,1060,₹4528
+3,bangalore, Tumkur Road , Prasanna,3,Floor14 out of 15,₹1.35 Cr ,1790,₹7542
+4,bangalore, Kudlu Gate , Akash Akash,2,Floor2 out of 4,₹61 Lac ,803,₹5706
+5,bangalore, Hal Stage 2, av nath,3,Floor1 out of 4,₹1.30 Cr ,1640,₹7303
+6,bangalore, Murugeshpalya, Sangeeta Pillai,2,Floor3 out of 5,₹50 Lac ,1250,₹5000
+7,bangalore, Begur Road , ganga k,3,Basement out of 17,₹1.80 Cr ,1588,₹11335
+8,bangalore, Judicial Layout, Anjan K,3,Floor3 out of 14,₹1 Cr ,1000,₹8889
+9,bangalore, Bellandur, Omesh Saraf,2,Floor2 out of 10,₹1.02 Cr ,1465,₹6997
+10,bangalore, Kasturi Nagar , Mohd Hussain ,3,FloorGround out of 7,₹1.45 Cr ,1500,₹8146
+11,bangalore, Koramangala Block 1 , Rahul Jain,3,Floor16 out of 16,₹3.85 Cr ,1418,₹20632
+12,bangalore, Sarjapur Road , Gaurav Kumar GAURAV,3,FloorGround out of 5,₹70 Lac ,1350,₹5655
+13,bangalore, Devanahalli , Ancy,2,Floor1 out of 7,₹85 Lac ,1000,₹6071
+14,bangalore, Hanumantha Nagar, Anoop,2,Floor2 out of 4,₹98 Lac ,1250,₹9800
+15,bangalore, , geetha,2,Floor2 out of 5,₹60 Lac ,857,₹6367
+16,bangalore, Doddakannelli , Omkar Omkar,2,Floor3 out of 6,₹78 Lac ,753,₹5158
+17,bangalore, Electronic City , ruchika,2,Floor1 out of 7,₹57 Lac ,1186,₹6374
+18,bangalore, Sarjapur Road , jeswanth,3,Floor1 out of 4,₹1.08 Cr ,1250,₹4553
+19,bangalore, Jigani , vikas saxena,3,Floor6 out of 12,₹57 Lac ,770,₹4545
+20,bangalore, , Ranju,2,Floor9 out of 9,₹35 Lac ,2150,₹7500
+21,bangalore, , tezal,4,Floor1 out of 4,₹1.80 Cr ,1900,₹12500
+22,bangalore, Jaya Nagar Block 3 , shravan,3,Floor2 out of 4,₹2.75 Cr ,1460,₹7705
+23,bangalore, whitefield , Bhav,3,Floor5 out of 5,₹1.12 Cr ,1885,₹5305
+24,bangalore, whitefield , Nagananda,3,Floor2 out of 4,₹1 Cr ,1950,₹7436
+25,bangalore, Harlur , MD Fuzail,3,Floor1 out of 3,₹1.45 Cr ,1250,₹5333
+26,bangalore, Sarjapur Road , ashwanth,3,Floor13 out of 27,₹80 Lac ,1820,₹7418
+27,bangalore, Hoodi, Partha Sarma,3,Floor5 out of 13,₹1.35 Cr ,2060,₹10194
+28,bangalore, Haralur Ma, Shekar,3,Floor3 out of 3,₹2.10 Cr ,740,₹4650
+29,bangalore, Yelahanka , Sashank Constructions,2,FloorGround out of 4,₹51.2 Lac ,331,₹26471
+30,mumbai, Daulat Nagar , K SH,1,Floor8 out of 9,₹73 Lac ,310,₹23276
+31,mumbai, Samel Pada , NIYATI,1,Floor1 out of 5,₹22 Lac ,610,₹16667
+32,mumbai, Borivali West , Sachin Kunder,2,Floor5 out of 15,₹2.25 Cr ,1160,
+33,mumbai, Goregaon West , Motashaw Motashaw,3,Floor4 out of 7,₹2.70 Cr ,665,₹23636
+34,mumbai, Vasai East , MONCY BHASKAR,1,FloorGround out of 76,₹41 Lac ,1052,₹37500
+35,mumbai, Worli , Anam khan,3,Floor4 out of 4,₹5.99 Cr ,685,₹27136
+36,mumbai, Kurla East , Milind Desai,2,FloorGround out of 3,₹1.20 Cr ,400,₹18545
+37,mumbai, Andheri East , Jas Baljeet J,1,Floor1 out of 6,₹1.30 Cr ,332,₹60000
+38,mumbai, Kandivali East , Gangaram Dhuri,1,Floor5 out of 20,₹65 Lac ,776,₹5047
+39,mumbai, Mahim West , Satyajit Satyajit,2,Floor6 out of 12,₹3.75 Cr ,800,
+40,mumbai, Borivali West , vasant ahir,2,Floor7 out of 7,₹2.70 Cr ,450,₹11529
+41,mumbai, Chembur West , Rajendra,1,FloorGround out of 4,₹1.02 Cr ,430,₹38459
+42,mumbai, , Aditi Shah,1,Floor1 out of 3,₹95 Lac ,675,₹7242
+43,mumbai, , Haroon mansuri,2,Floor21 out of 21,₹60 Lac ,1870,
+44,mumbai, Dadar West , kishor kishor,4,Floor3 out of 3,₹15 Cr ,820,₹10000
+45,mumbai, Boisar West , Medha Naik,2,Floor7 out of 21,₹32 Lac ,850,₹14583
+46,mumbai, Mira Road , Anita,2,Floor5 out of 7,₹98 Lac ,1172,₹5376
+47,mumbai, K, jagdish Dassani,3,Floor5 out of 7,₹4.89 Cr ,404,₹12042
+48,mumbai, Virar West , Raghav Sharma,1,Floor4 out of 15,₹44.9 Lac ,575,₹13669
+49,mumbai, Vasai West , nandan lanjekar,2,Floor9 out of 15,₹70 Lac ,507,₹19375
+50,mumbai, Bhandup West , amit chalke,1,Floor17 out of 18,₹1.05 Cr ,558,₹21333
+51,mumbai, Kalyan , Arun Iyer,1,Floor5 out of 12,₹30 Lac ,680,₹33333
+52,mumbai, Goregaon East , Ritu,2,Floor7 out of 7,₹1.25 Cr ,1130,₹22951
+53,mumbai, Marol Maroshi Road , Khuzema Tajir,3,Floor15 out of 23,₹1.90 Cr ,562,₹10695
+54,mumbai, Malad West , Dipti solanki,2,Floor3 out of 4,₹1.55 Cr ,535,₹25316
+55,mumbai, Vikhroli East , sujatha,2,Floor2 out of 13,₹1.28 Cr ,590,₹5268
+56,mumbai, Juhu , Aysha Khan,1,Floor2 out of 4,₹2 Cr ,792,₹8658
+57,mumbai, Andheri East , DHRUV SHARMA,2,Floor1 out of 11,₹2.52 Cr ,935,₹5000
+58,mumbai, Jogeshwari West , Mumtaz Nazim,2,Floor1 out of 4,₹1 Cr ,632,₹4444
+59,mumbai, Mulund West , Savith Raghavan Savith Raghavan,2,Floor1 out of 2,₹1.60 Cr ,1044,₹8947
+60,chennai, Mannivakkam Chennai, Yogesh Baskaran,2,FloorGround out of 2,₹55 Lac ,800,
+61,chennai, New Perungalathur Chennai, K VINODH KUMAR,2,Floor2 out of 2,₹80 Lac ,1200,₹4895
+62,chennai, Kovilambakkam Chennai, GURURAJAN BABU,3,Floor1 out of 2,₹60 Lac ,1350,₹6111
+63,chennai, Perumbakkam Chennai, Vijay Jaya,2,Floor1 out of 2,₹60 Lac ,950,₹5268
+64,chennai, Mogappair Chennai, siva,2,Floor1 out of 2,₹85 Lac ,1001,₹5712
+65,chennai, Tambaram West Tambaram Chennai, Prasanna,2,Floor4 out of 4,₹49 Lac ,900,₹8367
+66,chennai, Manapakkam Chennai, M DINESH KANNA,3,Floor3 out of 5,₹55 Lac ,800,₹8406
+67,chennai, Mogappair Chennai, Elango Rajendran,2,Floor16 out of 16,₹53 Lac ,852,
+68,chennai, Perumbakkam Chennai, Dev,3,Floor3 out of 4,₹69 Lac ,1494,₹5086
+69,chennai, Iyyappanthangal Chennai, vinothan,2,Floor1 out of 2,₹1.25 Cr ,700,₹9140
+70,chennai, Manapakkam Chennai, Owner,2,Floor4 out of 4,₹87 Lac ,634,₹7931
+71,chennai, Madipakkam Chennai, M G S Jayamalathi,1,Floor3 out of 4,₹32 Lac ,1395,₹6112
+72,chennai, Selaiyur Chennai, Mahalingam,2,Floor2 out of 4,₹71 Lac ,930,₹4335
+73,chennai, Velachery Chennai, Kads,2,Floor1 out of 2,₹85 Lac ,580,₹11616
+74,chennai, Adyar Chennai, Kuppuswamy Bj,1,Floor2 out of 2,₹46 Lac ,464,₹4060
+75,chennai, Sithalapakkam Chennai, YOGEESWARAN,2,Floor2 out of 3,₹47 Lac ,509,₹3999
+76,chennai, Shankar Nagar Pammal Chennai, Jayalakshmi,2,Floor2 out of 3,₹43 Lac ,990,₹7584
+77,chennai, Chennai, Vidhya vidhya,2,Floor1 out of 4,₹1.15 Cr ,445,₹5294
+78,chennai, Porur Chennai, Sujith,1,Floor1 out of 3,₹27 Lac ,469,₹6481
+79,chennai, Chennai, sakthi,2,Floor1 out of 3,₹29.7 Lac ,778,₹6198
+80,chennai, Villivakkam Chennai, Santhosh,2,Floor1 out of 1,₹59 Lac ,850,₹4343
+81,chennai, Kundrathur Chennai, Santhosh Developers,2,FloorGround out of 2,₹45 Lac ,540,₹6571
+82,chennai, AGS Colony Velachery Chennai, R Premalatha,1,Floor1 out of 2,₹35 Lac ,1194,₹11818
+83,chennai, Pallikaranai Chennai, Jebaselvan Navaraj,3,Floor1 out of 1,₹74 Lac ,898,₹5249
+84,chennai, Pozhichalur Chennai, Ramkumar Gopalsamy,2,Floor1 out of 2,₹39 Lac ,700,₹6763
+85,chennai, Jothi Nagar Chitlapakkam Chennai, ram,2,Floor1 out of 1,₹46 Lac ,600,₹8000
+86,chennai, VGP Layout Palavakkam Chennai, Faizal,2,Floor1 out of 4,₹1.30 Cr ,762,₹3242
+87,chennai, Perundevi Ammal Nagar Chennai, Vimal Kumar S,2,Floor1 out of 4,₹40 Lac ,1035,₹5143
+88,chennai, Gu, Venugopal,2,Floor2 out of 5,₹70 Lac ,800,₹4615
+89,chennai, Chennai, PURUSHOTHAMAN,2,Floor10 out of 16,₹74.9 Lac ,1300,₹4000
+90,visakhapatnam, , Hari,3,Floor15 out of 16,₹47.5 Lac ,823,₹4667
+91,visakhapatnam, , Sl Prasanna,2,FloorGround out of 6,₹72 Lac ,1700,₹4130
+92,visakhapatnam, Madhurwada , Sonia,3,Floor2 out of 3,₹97 Lac ,1575,₹4087
+93,visakhapatnam, Pendurthi , Ramana Murthy,3,Floor3 out of 5,₹63 Lac ,700,₹7634
+94,visakhapatnam, Pithapuram Colony , s bhargavi,2,Floor4 out of 4,₹35 Lac ,1540,₹3619
+95,visakhapatnam, Madhurwada , Lakshman,3,Floor1 out of 5,₹63.6 Lac ,1150,₹3046
+96,visakhapatnam, Pendurthi , Devi,2,Floor2 out of 4,₹47 Lac ,1310,₹7500
+97,visakhapatnam, Visalakshi Nagar , jitendra sai,3,Floor2 out of 5,₹1 Cr ,1000,₹5000
+98,visakhapatnam, Balaji Nagar , Ram,2,Floor2 out of 5,₹38 Lac ,915,₹3000
+99,visakhapatnam, Sujatha nagar , vakada ramana,2,Basement out of 3,₹30 Lac ,1300,₹3667
+100,visakhapatnam, , Ravindra Pamidi,3,Floor2 out of 5,₹97.5 Lac ,600,₹3750
+101,visakhapatnam, Mural, Praveen,1,Floor3 out of 5,₹30 Lac ,1000,₹4056
+102,visakhapatnam, Poth, Sai Stylish,2,Floor1 out of 5,₹30 Lac ,1300,₹3309
+103,visakhapatnam, Kurmannapalem , MADHU,3,Floor2 out of 5,₹55 Lac ,1516,₹5235
+104,visakhapatnam, Kurmannapalem , Uma Chavali,3,Floor1 out of 5,₹60 Lac ,1800,₹4118
+105,visakhapatnam, Pendurthi , TEJARAM THRI,3,Floor5 out of 5,₹73 Lac ,1100,₹3250
+106,visakhapatnam, Kurmannapalem , Jagan,3,Floor1 out of 5,₹45 Lac ,1620,₹6054
+107,visakhapatnam, , Rakesh Power,3,Floor2 out of 4,₹89 Lac ,1600,₹5173
+108,visakhapatnam, , Maheshwari,3,Floor2 out of 10,₹70 Lac ,970,₹4215
+109,visakhapatnam, Kancharapalem , RAMACHANDRA RAO,2,Floor4 out of 5,₹49 Lac ,1133,₹4756
+110,visakhapatnam, Kurmannapalem , Jaswanth,2,Floor2 out of 3,₹43.6 Lac ,925,₹3700
+111,visakhapatnam, Railway New Colony , Srikanth,2,Floor1 out of 5,₹56 Lac ,1875,₹2600
+112,visakhapatnam, Gajuwaka , Akshay Kumar,3,Floor4 out of 5,₹97 Lac ,1050,₹4667
+113,visakhapatnam, Aganampudi , swamy m,2,Floor2 out of 5,₹47 Lac ,1640,₹4222
+114,visakhapatnam, Madhurwada , lalitha dhulipala,3,Floor1 out of 5,₹78 Lac ,840,₹7091
+115,visakhapatnam, Tagarapuvalsa , Vision Properties,3,Floor3 out of 5,₹38.9 Lac ,800,
+116,visakhapatnam, Parawada , Honey Group,2,Floor5 out of 5,₹26 Lac ,900,
+117,visakhapatnam, PM Palem , New Living Properties,2,Floor3 out of 5,₹42 Lac ,650,
+118,visakhapatnam, Madhurwada , podilapu simhachalam,2,,₹38 Lac ,800,
+119,visakhapatnam, MVP Colony , Dinakar,2,,₹78 Lac ,,
