@@ -1,2 +1,2 @@
 # MagicBricksWebscrapingProject
-Webscaping Project by using Python,Numpy,Pandas,Matplotlib ,Seaborn and Regular Expression
+MagicBricks Webscaping Project done by using Python,Numpy,Pandas,Matplotlib ,Seaborn and Regular Expression
